@@ -22,4 +22,4 @@ Inspired by TSP， I came up with the following solution：
 
 1. Use OR-Tools package to solve TSP problem.
 
-1. Determine travel sequence and visualize it by gmaps.
+1. Determine travel sequence.
