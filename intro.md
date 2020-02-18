@@ -3,7 +3,7 @@
 When you have some free days for vacation, where is your dream destination? And how do you plan your travelling?
 
 Paris is my dream destination, i would like to spend half an hour on the last night before departure, searching for points of interest (POI), and then mark them on Google Maps to avoid passing them by. After some operations on my map, it looks like the following:
-![map](https://github.com/rongrongsang/IBM-Data-Science/blob/master/Paris.PN "google map")
+![map](https://github.com/rongrongsang/IBM-Data-Science/blob/master/Paris.PNG "google map")
 
 I want to walk to each place where I marked and feel the charm of the city. **Here comes the question, how can I walk through all the places with the shortest route?**
 
