@@ -1,5 +1,6 @@
 # TSP Travel Route Planning
-##1. Introduction
+## 1. Introduction
+
 When you have some free days for vacation, where is your dream destination? And how do you plan your travelling?
 
 Paris is my dream destination, i would like to spend half an hour on the last night before departure, searching for points of interest (POI), and then mark them on Google Maps to avoid passing them by. After some operations on my map, it looks like the following:
